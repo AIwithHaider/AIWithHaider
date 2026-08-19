@@ -1,16 +1,27 @@
-## Hi there 👋
+Ali Haider
+AI Python Developer
 
-<!--
-**AIwithHaider/AIWithHaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python • FastAPI • LLMs • RAG • PostgreSQL • LangChain
 
-Here are some ideas to get you started:
+I build practical AI applications using Python and modern
+LLM technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+→ Enterprise AI PDF Chat
+→ RAG applications
+→ AI-powered backend systems
+
+Tech:
+Python | FastAPI | PostgreSQL | SQL | REST APIs
+LLMs | RAG | Embeddings | ChromaDB | LangChain
+Git | GitHub
+
+Featured Projects:
+→ Enterprise AI PDF Chat
+→ RAG Chat Application
+→ CAA Chat Agent
+
+Open to:
+AI Python Developer Internships
+Generative AI Internships
+AI Engineering Internships
