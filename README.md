@@ -1,27 +1,71 @@
-Ali Haider
-AI Python Developer
+# Hi, I'm Ali Haider 👋
 
-Python • FastAPI • LLMs • RAG • PostgreSQL • LangChain
+### AI Python Developer | FastAPI | LLM Applications | RAG
 
-I build practical AI applications using Python and modern
-LLM technologies.
+I build practical AI applications using Python, backend technologies,
+and modern Generative AI techniques.
 
-Currently building:
-→ Enterprise AI PDF Chat
-→ RAG applications
-→ AI-powered backend systems
+Currently focused on building production-oriented AI applications
+with LLMs, RAG, embeddings, vector databases, and FastAPI.
 
-Tech:
-Python | FastAPI | PostgreSQL | SQL | REST APIs
-LLMs | RAG | Embeddings | ChromaDB | LangChain
-Git | GitHub
+## 🛠️ Tech Stack
 
-Featured Projects:
-→ Enterprise AI PDF Chat
-→ RAG Chat Application
-→ CAA Chat Agent
+### Programming & Backend
+- Python
+- FastAPI
+- REST APIs
+- SQL
+- PostgreSQL
 
-Open to:
-AI Python Developer Internships
-Generative AI Internships
-AI Engineering Internships
+### Generative AI
+- Large Language Models (LLMs)
+- LLM APIs
+- Retrieval-Augmented Generation (RAG)
+- Embeddings
+- Vector Similarity Search
+- Prompt Engineering
+
+### AI Tools
+- LangChain
+- ChromaDB
+
+### Development
+- Git
+- GitHub
+
+## 🚀 Featured Projects
+
+### Enterprise AI PDF Chat
+AI-powered document chat application using RAG, FastAPI,
+PostgreSQL, LangChain, ChromaDB, and LLM APIs.
+
+🔗 [View Repository](YOUR_REPOSITORY_URL)
+
+### RAG Chat Application
+Document-based AI chat application using Retrieval-Augmented
+Generation and LLMs.
+
+🔗 [View Repository](YOUR_REPOSITORY_URL)
+
+### CAA Chat Agent Application
+AI chatbot application demonstrating practical LLM application
+development.
+
+🔗 [View Repository](YOUR_REPOSITORY_URL)
+
+## 🎯 Currently Learning
+
+- Advanced RAG
+- LLM Application Architecture
+- AI Agents
+- LangGraph
+- Production AI Engineering
+
+## 💼 Open To
+
+- AI Python Developer Internships
+- Generative AI Internships
+- AI Engineering Internships
+- AI Backend Internships
+
+📍 Faisalabad, Pakistan
